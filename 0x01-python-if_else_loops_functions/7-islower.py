@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-#Author - James Chiedozie James
+# Author - James Chiedozie James
+
 def islower(c):
     """Function checks for lowercase characters."""
     if ord(c) >= 97 and ord(c) <= 122:
