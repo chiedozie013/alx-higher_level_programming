@@ -18,4 +18,3 @@ with urllib.request.urlopen(url, data=email_bytes) as response:
     # decode the body of the response as utf-8
     body = response.read().decode('utf-8')
     print(body)
-
