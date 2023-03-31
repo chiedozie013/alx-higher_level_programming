@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 """Fetches https://alx-intranet.hbtn.io/status."""
-"""written on 31-03-2023"""
 import urllib.request
 
 
